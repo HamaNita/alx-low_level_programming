@@ -1,1 +1,1 @@
-c is fun
+variables in c
