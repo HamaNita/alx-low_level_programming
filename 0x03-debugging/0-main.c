@@ -3,9 +3,9 @@
 /**
  * Main - Entry point
  *
- * Description - Testing a number is positive or negative
+ * Description - Testing if a number is positive or negative
  *
- * Return: Always 0 (Success)
+ * Return: Always 0 (success)
  */
 
 int main(void)
